@@ -1,0 +1,9 @@
+numpy
+pandas
+Pillow
+torch
+torchvision
+segmentation-models-pytorch
+scikit-learn
+matplotlib
+ipykernel
