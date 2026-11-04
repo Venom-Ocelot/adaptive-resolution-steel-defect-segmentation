@@ -1,3 +1,4 @@
 .venv/
 steel-defects
 lowres_best.pth
+runs/
